@@ -5,7 +5,7 @@ Here, you can find details about my projects, skills, and career journey.
 
 ---
 
-## 🔗 Live Portfolio: [Visit Here](https://praveen9019.github.io/my-portfolio/)
+## 🔗 Live Portfolio: [Visit Here](prajwal-as.vercel.app)
 
 ---
 
